@@ -1,6 +1,6 @@
 ## Two Three Bird Assessment
 
-This is a laravel framework cms template for all the Jadey eenterprise laravel based application 
+This is a laravel framework cms template for two three bird assessment 
 
 
 ## Installation
